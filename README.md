@@ -14,8 +14,8 @@ to ensure that npx always uses the latest version.
 <br>
 npx
 
-npx create-react-app my-app
-
+`npx create-react-app my-app
+`
 (npx comes with npm 5.2+ and higher, see instructions for older npm versions)
 
 
